@@ -6,11 +6,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/LYX9527?label=Followers&style=social)](https://github.com/LYX9527)
 [![GitHub stars](https://img.shields.io/github/stars/LYX9527?label=Stars&style=social)](https://github.com/LYX9527)
-[![GitHub viewer](https://img.shields.io/github/stars/LYX9527?label=Stars&style=social)](https://github.com/LYX9527)
-
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="/assets/svg/dog.svg" alt="Bullseye" width="30" height="30" /> 关于我
 
@@ -59,7 +57,7 @@
 </div>
 
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> 技术栈
 
@@ -120,7 +118,7 @@
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> GitHub 统计
 
@@ -149,7 +147,7 @@
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="/assets/svg/badge.svg" alt="Trophy" width="35" height="35" /> 成就徽章
 
@@ -163,7 +161,7 @@
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> 精选项目
 
@@ -186,7 +184,7 @@
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> 代码活动
 
@@ -200,7 +198,7 @@
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="/assets/svg/time.svg" alt="Artist Palette" width="35" height="35" /> 代码时间分布
 
@@ -245,7 +243,7 @@ No Activity Tracked This Week
  Last Updated on 18/07/2025 03:40:12 UTC
 <!--END_SECTION:waka-->
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="35" height="35" /> 联系我
 
@@ -256,7 +254,7 @@ No Activity Tracked This Week
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 ## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="35" height="35" /> 今日格言
 
@@ -270,7 +268,7 @@ No Activity Tracked This Week
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 <div align="center">
 
 
@@ -280,7 +278,7 @@ No Activity Tracked This Week
 
 </div>
 
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
 <div align="center">
 
