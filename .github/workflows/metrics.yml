@@ -18,6 +18,7 @@ jobs:
       - name: base
         uses: lowlighter/metrics@latest
         with:
+          plugins_errors_fatal: no
           filename: github-metrics/base.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}

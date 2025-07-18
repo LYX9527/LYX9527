@@ -125,14 +125,26 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LYX9527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYX9527&layout=compact&langs_count=7&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LYX9527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LYX9527&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LYX9527&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LYX9527&layout=compact&langs_count=7&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LYX9527&layout=compact&langs_count=7&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYX9527&layout=compact&langs_count=7&theme=tokyonight" />
+</picture>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=LYX9527&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LYX9527&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=LYX9527&theme=default" />
+  <img src="https://streak-stats.demolab.com/?user=LYX9527&theme=tokyonight" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -142,7 +154,11 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=LYX9527&theme=tokyonight&column=9)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=LYX9527&theme=tokyonight&column=9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=LYX9527&theme=flat&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LYX9527&theme=tokyonight&column=9" alt="trophy" />
+</picture>
 
 </div>
 
@@ -152,11 +168,19 @@
 
 <div align="center">
 
-<a href="https://github.com/LYX9527/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=develop-tools&theme=tokyonight" />
+<a href="https://github.com/LYX9527/develop-tools">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=develop-tools&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=develop-tools&theme=default" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=develop-tools&theme=tokyonight" />
+  </picture>
 </a>
-<a href="https://github.com/LYX9527/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=yltf-blog&theme=tokyonight" />
+<a href="https://github.com/LYX9527/yltf-blog">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=yltf-blog&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=yltf-blog&theme=default" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LYX9527&repo=yltf-blog&theme=tokyonight" />
+  </picture>
 </a>
 
 </div>
@@ -167,7 +191,11 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LYX9527&theme=tokyo-night)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LYX9527&theme=tokyo-night" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LYX9527&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LYX9527&theme=tokyo-night" alt="Activity Graph" />
+</picture>
 
 </div>
 
@@ -233,7 +261,11 @@ No Activity Tracked This Week
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</picture>
 
 </div>
 
