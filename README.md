@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/LYX9527?label=Followers&style=social)](https://github.com/LYX9527)
 [![GitHub stars](https://img.shields.io/github/stars/LYX9527?label=Stars&style=social)](https://github.com/LYX9527)
+[![GitHub viewer](https://img.shields.io/github/stars/LYX9527?label=Stars&style=social)](https://github.com/LYX9527)
 
 </div>
 
@@ -296,16 +297,12 @@ No Activity Tracked This Week
     <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/wakatime.svg" alt="wakatime" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/people.followers.svg" alt="followers" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/github-metrics/stars.svg" alt="stars" /></td>
