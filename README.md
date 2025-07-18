@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Bullseye.png" alt="Bullseye" width="35" height="35" /> 关于我
+## <img src="/assets/svg/dog.svg" alt="Bullseye" width="30" height="30" /> 关于我
 
 <div align="center">
 
