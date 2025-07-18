@@ -138,11 +138,11 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> 成就徽章
+## <img src="/assets/svg/badge.svg" alt="Trophy" width="35" height="35" /> 成就徽章
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=LYX9527&theme=tokyonight&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=LYX9527&theme=tokyonight&column=9)
 
 </div>
 
