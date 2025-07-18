@@ -201,7 +201,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="35" height="35" /> 代码时间分布
+## <img src="/assets/svg/time.svg" alt="Artist Palette" width="35" height="35" /> 代码时间分布
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -273,7 +273,7 @@ No Activity Tracked This Week
 <div align="center">
 
 
-**"代码改变世界，创新驱动未来"** <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /><img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Sparkles.png" alt="Sparkles" width="25" height="25" />
+**"代码改变世界，创新驱动未来"** <img src="/assets/svg/sparkles.svg" alt="Sparkles" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
@@ -283,7 +283,7 @@ No Activity Tracked This Week
 
 <div align="center">
 
-*<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Dizzy.png" alt="Dizzy" width="20" height="20" /> "在代码的世界里，我们都是创造者" <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Dizzy.png" alt="Dizzy" width="20" height="20" />*
+*<img src="/assets/svg/sparkles.svg" alt="Sparkles" width="25" height="25" /> "在代码的世界里，我们都是创造者" <img src="/assets/svg/sparkles.svg" alt="Sparkles" width="25" height="25" />*
 
 </div>
 <table>
