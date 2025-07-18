@@ -1,6 +1,8 @@
 <div align="center">
 
-# <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> 欢迎来到 LYX9527 的数字世界
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=全栈开发工程师;代码艺术家;技术创新者;终身学习者" alt="Typing SVG" />
 
@@ -10,50 +12,151 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
 
-## <img src="/assets/svg/dog.svg" alt="Bullseye" width="30" height="30" /> 关于我
+## <img src="/assets/svg/dog.svg" alt="About" width="30" height="30" /> 关于我
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; width: 100%; max-width: 900px;">
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="center" style="width: 300px; padding: 20px;">
 
-### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 个人简介
+<!-- 头像区域 -->
+<div style="position: relative; display: inline-block;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Avatar" width="220" height="220" style="border-radius: 50%; border: 5px solid #00d4ff; box-shadow: 0 0 30px rgba(0, 212, 255, 0.3);" />
+  <div style="position: absolute; bottom: 10px; right: 10px; background: linear-gradient(45deg, #00d4ff, #090979); border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-size: 24px;">
+    💻
+  </div>
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Name%20Badge.png" alt="Name Badge" width="20" height="20" /> **姓名**: LYX9527
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="20" height="20" /> **位置**: 中国  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" /> **职业**: 全栈开发工程师  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> **专长**: 前后端开发、架构设计
+<br><br>
 
-### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> 核心技能
-
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> **前端开发**: React, Vue, Next.js, TypeScript  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> **后端开发**: Node.js, Python, Java, Go  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> **数据库**: MySQL, MongoDB, Redis  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Travel%20and%20places/Star.png" alt="Star" width="15" height="15" /> **云服务**: AWS, Docker, Kubernetes
+<!-- 社交状态 -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 8px 16px; border-radius: 20px; color: white; font-size: 12px; font-weight: bold;">
+    🟢 在线
+  </div>
+  <div style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 8px 16px; border-radius: 20px; color: white; font-size: 12px; font-weight: bold;">
+    🚀 编码中
+  </div>
+</div>
 
 </td>
-<td valign="top" width="50%">
+<td align="left" valign="top" style="padding: 20px;">
 
-### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Brain.png" alt="Brain" width="30" height="30" /> 当前状态
+<!-- 个人信息列表 -->
+<div style="background: linear-gradient(135deg, #0f1419 0%, #1a1a2e 100%); border-radius: 15px; padding: 25px; margin-bottom: 20px; border: 1px solid #00d4ff;">
 
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> **正在学习**: AI/ML & 区块链技术  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Handshake.png" alt="Handshake" width="20" height="20" /> **合作态度**: 开放合作  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass" width="20" height="20" /> **关注领域**: Web3, AI应用  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Trophy.png" alt="Trophy" width="20" height="20" /> **目标**: 构建下一代互联网应用
+<h3 style="color: #00d4ff; margin-top: 0; margin-bottom: 20px; font-size: 20px; border-bottom: 2px solid #00d4ff; padding-bottom: 10px;">
+👨‍💻 基本信息
+</h3>
 
-### <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /> 开发理念
+<div style="display: flex; flex-direction: column; gap: 12px;">
 
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Check%20Mark.png" alt="Check Mark" width="15" height="15" /> 代码质量至上，优雅简洁  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Check%20Mark.png" alt="Check Mark" width="15" height="15" /> 用户体验驱动开发  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Check%20Mark.png" alt="Check Mark" width="15" height="15" /> 持续学习，拥抱变化  
-<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis/Emojis/Objects/Check%20Mark.png" alt="Check Mark" width="15" height="15" /> 开源精神，分享知识
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(0, 212, 255, 0.1); border-radius: 8px; border-left: 4px solid #00d4ff;">
+  <span style="font-size: 18px;">🏷️</span>
+  <span style="color: #ffffff; font-weight: bold;">姓名：</span>
+  <span style="color: #00d4ff;">LYX9527</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(255, 107, 107, 0.1); border-radius: 8px; border-left: 4px solid #ff6b6b;">
+  <span style="font-size: 18px;">💼</span>
+  <span style="color: #ffffff; font-weight: bold;">职业：</span>
+  <span style="color: #ff6b6b;">全栈开发工程师</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(67, 233, 123, 0.1); border-radius: 8px; border-left: 4px solid #43e97b;">
+  <span style="font-size: 18px;">🌍</span>
+  <span style="color: #ffffff; font-weight: bold;">位置：</span>
+  <span style="color: #43e97b;">中国</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(240, 147, 251, 0.1); border-radius: 8px; border-left: 4px solid #f093fb;">
+  <span style="font-size: 18px;">⏱️</span>
+  <span style="color: #ffffff; font-weight: bold;">经验：</span>
+  <span style="color: #f093fb;">5+ 年开发经验</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(79, 172, 254, 0.1); border-radius: 8px; border-left: 4px solid #4facfe;">
+  <span style="font-size: 18px;">🎯</span>
+  <span style="color: #ffffff; font-weight: bold;">专注：</span>
+  <span style="color: #4facfe;">Web开发 • 系统架构 • AI集成</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(56, 249, 215, 0.1); border-radius: 8px; border-left: 4px solid #38f9d7;">
+  <span style="font-size: 18px;">📚</span>
+  <span style="color: #ffffff; font-weight: bold;">学习中：</span>
+  <span style="color: #38f9d7;">AI/ML • Web3 • 区块链</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 12px; padding: 10px; background: rgba(102, 126, 234, 0.1); border-radius: 8px; border-left: 4px solid #667eea;">
+  <span style="font-size: 18px;">💭</span>
+  <span style="color: #ffffff; font-weight: bold;">座右铭：</span>
+  <span style="color: #667eea;">Code • Create • Innovate</span>
+</div>
+
+</div>
+</div>
+
+<!-- 技术栈信息 -->
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 15px; padding: 25px; margin-bottom: 20px; border: 1px solid #ff6b6b;">
+
+<h3 style="color: #ff6b6b; margin-top: 0; margin-bottom: 20px; font-size: 20px; border-bottom: 2px solid #ff6b6b; padding-bottom: 10px;">
+🛠️ 技术栈
+</h3>
+
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
+
+<div style="background: rgba(0, 212, 255, 0.1); border-radius: 10px; padding: 15px; border: 1px solid #00d4ff;">
+  <div style="color: #00d4ff; font-weight: bold; margin-bottom: 8px;">🎨 前端开发</div>
+  <div style="color: #ffffff; font-size: 14px;">React • Vue.js • Next.js • TypeScript • Tailwind CSS</div>
+</div>
+
+<div style="background: rgba(255, 107, 107, 0.1); border-radius: 10px; padding: 15px; border: 1px solid #ff6b6b;">
+  <div style="color: #ff6b6b; font-weight: bold; margin-bottom: 8px;">⚙️ 后端开发</div>
+  <div style="color: #ffffff; font-size: 14px;">Node.js • Python • Java • Go • Spring Boot</div>
+</div>
+
+<div style="background: rgba(67, 233, 123, 0.1); border-radius: 10px; padding: 15px; border: 1px solid #43e97b;">
+  <div style="color: #43e97b; font-weight: bold; margin-bottom: 8px;">🗄️ 数据库</div>
+  <div style="color: #ffffff; font-size: 14px;">MySQL • MongoDB • Redis • PostgreSQL</div>
+</div>
+
+<div style="background: rgba(240, 147, 251, 0.1); border-radius: 10px; padding: 15px; border: 1px solid #f093fb;">
+  <div style="color: #f093fb; font-weight: bold; margin-bottom: 8px;">☁️ 云服务</div>
+  <div style="color: #ffffff; font-size: 14px;">AWS • Docker • Kubernetes • Serverless</div>
+</div>
+
+</div>
+</div>
+
+<!-- 技能雷达图 -->
+<div style="margin-top: 20px;">
+<h4 style="color: #00d4ff; margin-bottom: 15px;">⚡ 技能掌握度</h4>
+
+**Frontend Development**
+<div style="background: #1a1a2e; border-radius: 10px; overflow: hidden; height: 8px; margin: 8px 0;">
+  <div style="background: linear-gradient(90deg, #00d4ff, #0f3460); width: 90%; height: 100%; transition: width 0.3s ease;"></div>
+</div>
+
+**Backend Development**
+<div style="background: #1a1a2e; border-radius: 10px; overflow: hidden; height: 8px; margin: 8px 0;">
+  <div style="background: linear-gradient(90deg, #ff6b6b, #ee5a24); width: 85%; height: 100%; transition: width 0.3s ease;"></div>
+</div>
+
+**Database & DevOps**
+<div style="background: #1a1a2e; border-radius: 10px; overflow: hidden; height: 8px; margin: 8px 0;">
+  <div style="background: linear-gradient(90deg, #26d0ce, #1a9134); width: 80%; height: 100%; transition: width 0.3s ease;"></div>
+</div>
+
+**Cloud Architecture**
+<div style="background: #1a1a2e; border-radius: 10px; overflow: hidden; height: 8px; margin: 8px 0;">
+  <div style="background: linear-gradient(90deg, #f093fb, #f5576c); width: 88%; height: 100%; transition: width 0.3s ease;"></div>
+</div>
+</div>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 
