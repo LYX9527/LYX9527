@@ -169,44 +169,8 @@
 ## <img src="/assets/svg/time.svg" alt="Artist Palette" width="35" height="35" /> 代码时间分布
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 Daytime                231 commits         █████████████░░░░░░░░░░░░   53.60 % 
-🌃 Evening                112 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Wednesday                88 commits          █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Thursday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Friday                   91 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/09/2025 01:13:04 UTC
+ Last Updated on 23/09/2025 01:06:38 UTC
 <!--END_SECTION:waka-->
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/LYX9527/LYX9527/assets/images/hr.gif" />
